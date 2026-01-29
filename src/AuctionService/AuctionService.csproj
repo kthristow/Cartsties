@@ -11,6 +11,7 @@
     <Folder Include="Data/" />
     <Folder Include="DTOs/" />
     <Folder Include="RequestHelpers/" />
+    <Folder Include="Services/" />
   </ItemGroup>
 
   <ItemGroup>
